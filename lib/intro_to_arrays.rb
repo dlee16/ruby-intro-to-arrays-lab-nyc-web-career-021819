@@ -6,8 +6,12 @@ def array_with_two_elements
  ["tap","sparkling"] 
 end
 
-def first_element
+def first_element(array)
   array[0]
 end
 
-def 
+def third_element(array)
+  array[2]
+end
+
+def
